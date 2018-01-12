@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Program Files\Schlumberger\Petrel 2010lite\Petrel.exe</StartProgram>
+    <StartArguments>-licensePackage Package4 -exec "PetrelProjectIndexer.PetrelProjectIndexer, PetrelProjectIndexer" run</StartArguments>
+    <StartWorkingDirectory>C:\Program Files\Schlumberger\Petrel 2010lite\Extensions</StartWorkingDirectory>
+    <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <StartProgram>C:\Program Files\Schlumberger\Petrel 2010lite\Petrel.exe</StartProgram>
+    <StartWorkingDirectory>C:\Program Files\Schlumberger\Petrel 2010lite\Extensions</StartWorkingDirectory>
+    <StartArguments>-licensePackage Package4 -exec "PetrelProjectIndexer.PetrelProjectIndexer, PetrelProjectIndexer" run</StartArguments>
+    <StartAction>Program</StartAction>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory />
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

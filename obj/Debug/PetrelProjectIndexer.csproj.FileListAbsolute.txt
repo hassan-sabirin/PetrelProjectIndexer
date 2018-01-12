@@ -1,0 +1,149 @@
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\PetrelProjectIndexer.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\PetrelProjectIndexer.pdb
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Infragistics2.Shared.v7.3.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Infragistics2.Win.Misc.v7.3.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Infragistics2.Win.UltraWinDock.v7.3.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Infragistics2.Win.UltraWinEditors.v7.3.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Infragistics2.Win.UltraWinGrid.v7.3.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v7.3.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Infragistics2.Win.UltraWinTabControl.v7.3.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Infragistics2.Win.UltraWinToolbars.v7.3.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Infragistics2.Win.UltraWinTree.v7.3.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Infragistics2.Win.v7.3.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Basics.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Catalogs.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Coordinates.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.CoordinateSystems.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Core.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Core.ReferenceImpl.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Data.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Geometry.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Basics.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.DomainObject.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.DomainObject.FrameworkModeling.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.DomainObjectExtensions.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Simulation.EclipseKeywords.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.UI.Controls.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.ReferenceImpl.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Units.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Units.ReferenceCatalog.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Units.ReferenceImpl.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.xml
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Units.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.pdb
+C:\Program Files\Schlumberger\Petrel 2010lite\Extensions\PetrelProjectIndexer.dll
+C:\Program Files\Schlumberger\Petrel 2010lite\Extensions\PetrelProjectIndexer.pdb
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.IndexDirSelector.resources
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.csproj.GenerateResource.Cache
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.PathEntry.resources
+D:\Program Files\Schlumberger\Petrel 2011\Extensions\PetrelProjectIndexer.dll
+D:\Program Files\Schlumberger\Petrel 2011\Extensions\PetrelProjectIndexer.pdb
+D:\backup\backupWORKSTATION2014\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.IndexDirSelector.resources
+D:\backup\backupWORKSTATION2014\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.PathEntry.resources
+D:\backup\backupWORKSTATION2014\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.csproj.GenerateResource.Cache
+D:\backup\backupWORKSTATION2014\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.dll
+D:\backup\backupWORKSTATION2014\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.pdb
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.IndexDirSelector.resources
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.PathEntry.resources
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.pdb
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\PetrelProjectIndexer.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\PetrelProjectIndexer.pdb
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Basics.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Catalogs.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Coordinates.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Core.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Core.ReferenceImpl.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Data.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Geometry.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Data.Persistence.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Global.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.ReservoirEngineering.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Seismic.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Units.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Units.ReferenceCatalog.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.UI.Controls.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Data.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Positioning.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Projections.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Topology.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Serialization.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Mono.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Data.pdb
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Data.xml
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Positioning.pdb
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Positioning.xml
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Projections.pdb
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Projections.xml
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Topology.pdb
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Topology.xml
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Serialization.pdb
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Serialization.xml
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Mono.pdb
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Mono.xml
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Well.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Configuration.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Modeling.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Geology.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.DomainObject.FrameworkModeling.dll
+C:\Users\user\Documents\Initiatives\SeekOPeek\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.DomainObjectExtensions.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\PetrelProjectIndexer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\PetrelProjectIndexer.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Basics.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Catalogs.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Coordinates.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Core.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Core.ReferenceImpl.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Data.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Geometry.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.DomainObject.FrameworkModeling.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.DomainObjectExtensions.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Global.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Modeling.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.ReservoirEngineering.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Seismic.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Well.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Units.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Serialization.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Mono.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Units.ReferenceCatalog.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Configuration.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Data.Persistence.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.UI.Controls.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\Slb.Ocean.Petrel.Geology.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Data.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Data.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Positioning.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Positioning.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Projections.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Projections.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Topology.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Topology.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Serialization.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Serialization.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Mono.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\bin\Debug\DotSpatial.Mono.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.IndexDirSelector.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.PathEntry.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\PetrelProjectIndexer\PetrelProjectIndexer\obj\Debug\PetrelProjectIndexer.pdb

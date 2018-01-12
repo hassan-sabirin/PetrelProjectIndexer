@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{037A6820-A6F4-4C48-A36E-6A1BA2031F2E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PetrelProjectIndexer</RootNamespace>
+    <AssemblyName>PetrelProjectIndexer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\..\..\..\..\..\..\Program Files\Schlumberger\Petrel 2010lite\Extensions\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DotSpatial.Data">
+      <HintPath>..\..\..\DotSpatial\DotSpatial.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Positioning">
+      <HintPath>..\..\..\DotSpatial\DotSpatial.Positioning.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Projections">
+      <HintPath>..\..\..\DotSpatial\DotSpatial.Projections.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Topology">
+      <HintPath>..\..\..\DotSpatial\DotSpatial.Topology.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\SeekOPeek\package\plugin\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Basics, Version=3.2012.3.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Basics.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Catalogs, Version=3.2012.3.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Catalogs.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Coordinates, Version=3.2012.3.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Coordinates.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Core, Version=3.2012.3.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Core.ReferenceImpl, Version=3.2012.3.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Core.ReferenceImpl.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Data, Version=3.2012.3.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Geometry, Version=3.2012.3.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Geometry.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel, Version=3.2012.5.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Petrel.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel.DomainObject.FrameworkModeling">
+      <HintPath>2013.1.1.4\Slb.Ocean.Petrel.DomainObject.FrameworkModeling.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel.DomainObjectExtensions">
+      <HintPath>2013.1.1.4\Slb.Ocean.Petrel.DomainObjectExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel.Global, Version=3.2012.5.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Petrel.Global.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel.Modeling, Version=13.5.0.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Petrel.Modeling.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel.ReservoirEngineering, Version=13.5.0.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Petrel.ReservoirEngineering.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel.Seismic, Version=3.2012.5.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Petrel.Seismic.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Petrel.Well">
+      <HintPath>2013.1.1.4\Slb.Ocean.Petrel.Well.dll</HintPath>
+    </Reference>
+    <Reference Include="Slb.Ocean.Units, Version=3.2012.3.0, Culture=neutral, PublicKeyToken=14ef4a483ef6a64b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>2013.1.1.4\Slb.Ocean.Units.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="IndexDirSelector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IndexDirSelector.Designer.cs">
+      <DependentUpon>IndexDirSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InternalErrorException.cs" />
+    <Compile Include="InteropUtil.cs" />
+    <Compile Include="OpenFileOrFolderDialog.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PathEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PathEntry.Designer.cs">
+      <DependentUpon>PathEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQLite.cs" />
+    <Compile Include="SQLiteAsync.cs" />
+    <Compile Include="Util.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="IndexDirSelector.resx">
+      <DependentUpon>IndexDirSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PathEntry.resx">
+      <DependentUpon>PathEntry.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="res1.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
